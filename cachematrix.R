@@ -1,5 +1,16 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## makeCacheMatrix do:
+##   a) Set the value of the matrix
+##   b) Get the value of the matrix
+##   c) Set the value of the solve
+##   d) Get the value of the solve
+##
+## cacheSolve do:
+##   a) Checks to see if the solve has already been calculated
+##   b) If so, it get S the solve from the cache and skips the computation
+##   c) Otherwise, it calculates the solve of the data and sets the value
+##      of the solve in the cache via the setsolve function
 
 ## This function creates a special "matrix" object that can cache its inverse
 
